@@ -1,4 +1,4 @@
-<h1 align="center">✨ Secrete King Star ✨</h1>
+<h1 align="center">✨ 18K ✨</h1>
 <p align="center">
   <img src="https://github.com/secretekingstar/secretekingstar/blob/main/star-king-banner.png" alt="Star King Banner" width="100%" />
 </p>
